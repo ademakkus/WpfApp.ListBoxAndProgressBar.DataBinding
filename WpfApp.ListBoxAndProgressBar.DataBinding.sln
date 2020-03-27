@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp.ListBoxAndProgressBar.DataBinding", "WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding.csproj", "{98329592-0228-4BFA-9574-110D029015C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98329592-0228-4BFA-9574-110D029015C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98329592-0228-4BFA-9574-110D029015C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98329592-0228-4BFA-9574-110D029015C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98329592-0228-4BFA-9574-110D029015C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {676341EA-4059-4DCF-BFC7-90BE49C65579}
+	EndGlobalSection
+EndGlobal

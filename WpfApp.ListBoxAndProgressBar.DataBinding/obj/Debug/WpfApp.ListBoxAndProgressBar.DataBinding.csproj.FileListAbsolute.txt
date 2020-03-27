@@ -1,0 +1,15 @@
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\obj\Debug\WpfApp.ListBoxAndProgressBar.DataBinding.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\obj\Debug\App.g.cs
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\obj\Debug\WpfApp.ListBoxAndProgressBar.DataBinding_MarkupCompile.cache
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\bin\Debug\WpfApp.ListBoxAndProgressBar.DataBinding.exe.config
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\bin\Debug\WpfApp.ListBoxAndProgressBar.DataBinding.exe
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\bin\Debug\WpfApp.ListBoxAndProgressBar.DataBinding.pdb
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\obj\Debug\MainWindow.g.cs
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\obj\Debug\WpfApp.ListBoxAndProgressBar.DataBinding_MarkupCompile.lref
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\obj\Debug\MainWindow.baml
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\obj\Debug\WpfApp.ListBoxAndProgressBar.DataBinding.g.resources
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\obj\Debug\WpfApp.ListBoxAndProgressBar.DataBinding.Properties.Resources.resources
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\obj\Debug\WpfApp.ListBoxAndProgressBar.DataBinding.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\obj\Debug\WpfApp.ListBoxAndProgressBar.DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\obj\Debug\WpfApp.ListBoxAndProgressBar.DataBinding.exe
+C:\Users\mypc\source\repos\WpfApp.ListBoxAndProgressBar.DataBinding\WpfApp.ListBoxAndProgressBar.DataBinding\obj\Debug\WpfApp.ListBoxAndProgressBar.DataBinding.pdb
